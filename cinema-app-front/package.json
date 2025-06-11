@@ -1,0 +1,22 @@
+{
+  "name": "cinema-app-front",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.6.2",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.89.2",
+    "vite": "^6.2.0"
+  }
+}
